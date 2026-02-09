@@ -68,7 +68,7 @@ nav {
 .hero-kelompok {
     height: 100vh; /* Memenuhi tinggi layar */
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), 
-                url("image/10novsby.png") no-repeat center center/cover;
+                url("10novsby.png") no-repeat center center/cover;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -282,4 +282,5 @@ section {
     .section-container {
         padding: 50px 5%;
     }
+
 }
